@@ -288,8 +288,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-
-Made with ☕ and Google Antigravity · [Report a Bug](https://github.com/shashishekhar0001/finflow/issues) · [Request a Feature](https://github.com/shashishekhar0001/finflow/issues)
 
 </div>
