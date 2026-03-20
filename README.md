@@ -255,35 +255,6 @@ Charts use `<ResponsiveContainer>` from Recharts and fill 100% of their parent a
 
 ---
 
-## 🤖 Built with Google Antigravity
-
-The entire application — all 18 components, the Zustand store, 6 App Router pages, and mock data seeding — was generated in a single agentic session using [Google Antigravity](https://antigravity.dev).
-
-### The Workflow
-
-```
-1. Prompt (structured, ~600 lines)
-        │
-        ▼
-2. Plan Artifact review
-   (agent listed all files + flagged @types/canvas-confetti)
-        │
-        ▼
-3. Agentic build (Terminal Policy: Auto)
-   npx create-next-app → install deps → generate all files → npm run dev
-        │
-        ▼
-4. Browser QA (built-in browser + screenshots)
-   → Found 2 issues: SVG circumference bug + mobile nav overlap
-   → Fixed in same agent turn
-```
-
-**Time to working build:** ~38 minutes generation + ~12 minutes fixes = **~50 minutes total**
-
-Estimated manual equivalent: 3–4 developer days.
-
----
-
 ## 🗺 Roadmap
 
 - [ ] CSV / PDF monthly expense export
